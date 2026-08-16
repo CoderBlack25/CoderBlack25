@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=400&height=44&lines=I'm%20a%20Frontend%20Developer" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ffffff&center=true&vCenter=true&width=400&height=44&lines=I'm%20a%20Frontend%20Developer" alt="Typing headlines" />
 </p>
 
 ### 🛠️ Tech Stack
