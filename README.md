@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ffffff&center=true&vCenter=true&width=400&height=44&lines=I'm%20a%20Frontend%20Developer" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Jaro&weight=600&size=30&pause=1000&color=ffffff&center=true&vCenter=true&width=400&height=44&lines=I'm%20a%20Frontend%20Developer" alt="Typing headlines" />
 </p>
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
-### 🔗 Connect With Me
+### Connect With Me
 
 <p align="left">
   <a href="https://linkedin.com/in/chisom-chukwuma-80b033205" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
