@@ -1,11 +1,7 @@
 <p align="center">
   <a href="https://github.com/CoderBlack25">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=12261e&fontSize=54&height=90&width=634&text=Hello!%20I'm%20Chisom" alt="Hello! I&#39;m Chisom" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=339933&fontSize=54&height=90&width=634&text=Hello!%20I'm%20Chisom" alt="Hello! I&#39;m Chisom" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Jaro&weight=600&size=26&pause=1000&color=ffffff&center=true&vCenter=true&width=400&height=44&lines=I'm%20a%20Frontend%20Developer" alt="Typing headlines" />
 </p>
 
 ### Tech Stack
